@@ -1,0 +1,285 @@
+*{
+    margin: 0;
+   
+    
+}
+.header-banner{
+    background: url('../images/banner/banner1.png');
+    width: 1600px;
+    height: 808px;
+    position: absolute;
+}
+.header-container{
+    text-align: right;
+    position: absolute;
+    width: 525px;
+    height: 228px;
+   left: 845px;
+   top: 216px;
+}
+.header-title{
+    font-family: 'Work Sans';
+    font-style: normal;
+   font-weight: 700px;
+   font-size: 65px;
+  line-height: 76px;
+  color: #151414;
+}
+.header-description{
+    margin-top: 24px;
+    font-weight: 400;
+   font-size: 16px;
+   line-height: 26px;
+   text-align: right;
+   color: #444343
+}
+.btn-primary{
+    margin-top: 32px;
+    width: 160px;
+    height: 64px;
+    left: 1210px;
+    top: 578px;
+    border: 0;
+   background: #F15B22;
+   border-radius: 5px;
+
+   
+
+
+}
+span{
+    width: 109px;
+    height: 23px;
+    left: 1236px;
+    top: 599px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+   
+
+   color: #FFFFFF;
+}
+.failuers-image{
+    position: absolute;
+width: 569px;
+height: 723.3px;
+left: 206px;
+top: 939px;
+}
+.failuers-image{
+    display: flex;
+}
+
+.failuers-discription{
+    position: absolute;
+width: 415px;
+height: 426px;
+left: 896px;
+top: 1189px;
+
+}
+.failuers-title{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+color: #151414;
+}
+.failuers-brief{
+    margin-top: 24px;
+    font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #444343;
+}
+.list-option{
+    margin-top: 16px;
+}
+.my-plans{
+    position: absolute;
+width: 1141px;
+height: 299.96px;
+left: 230px;
+top: 1792.3px;
+
+}
+.section-title{
+    text-align: center;
+}
+.section-container{
+    display: flex;
+   gap: 80px;
+   
+}
+.section-item{
+    width: 350px;
+height: 197px;
+left: 853px;
+top: 1889.3px;
+margin-top: 50px;
+align-items: center;
+}
+.my-plans{
+    justify-content: center;
+}
+.center{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+
+}
+.section-title1{
+    text-align: center;
+   margin-top: 15px;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+}
+.item-brief{
+    text-align: center;
+    font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+color: #737272;
+}
+.call-now{
+    position: absolute;
+width: 1140px;
+height: 300px;
+left: 230px;
+top: 2222px;
+background-image: url(../images/watch.png);
+background: linear-gradient(90deg, #F15B22 0%, rgba(149, 128, 119, 0.494) 100%);
+color: #F15B22;
+
+border-radius: 8px;
+}
+.mindset{
+    font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+
+color: #FFFFFF;
+margin-left: 64px;
+margin-top: 60px;
+
+
+
+}
+.btn{
+    font-weight: 600;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+
+color: #F15B22;
+margin-left: 64px;
+width: 160px;
+    height: 64px;
+    border: 0;
+ border-radius: 5px;
+ margin-top: 5px;
+}
+.footer-section{
+   
+}
+
+.contact{
+    position: absolute;
+width: 1600px;
+height: 577px;
+left: 0px;
+top: 2652.26px;
+
+display: flex;
+gap: 20px;
+
+background: #151414;
+}
+.contact-social{
+    width: 485px;
+height: 317px;
+margin-left: 230px;
+margin-top: 130px;
+
+}
+.contact-email{
+    width: 325px;
+height: 204px;
+margin-top: 130px;
+margin-right: 229px;
+margin-left: 600px;
+}
+.future-title{
+    font-weight: 700;
+font-size: 45px;
+line-height: 53px;
+
+
+color: #F8F8F8
+}
+.future-description{
+    font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+
+
+color: #FFFFFF;
+}
+a{
+    text-decoration: none;
+}
+.image{
+    margin-top: 5px;
+    width: 30px;
+}
+.subscribe-title{
+    font-weight: 600;
+font-size: 25px;
+line-height: 29px;
+
+color: #FFFFFF;
+
+}
+input{
+    width: 300px;
+    height: 30px;
+    background-color: #151414;
+    border: 1px solid #FFFFFF;
+    border-radius: 5px;
+    font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+margin-top: 31px;
+
+
+color: #F3F3F3;
+}
+.btn-subscribe{
+width: 200px;
+
+
+font-size: 20px;
+
+border-radius: 5px;
+color: #F15B22;
+margin-top: 16px;
+
+}
+.secon{
+    font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+
+
+color: #151414
+}
+   
